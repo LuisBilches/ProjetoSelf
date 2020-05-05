@@ -6,6 +6,12 @@ using System.Threading.Tasks;
 
 namespace VolleyGame
 {
+    /// <summary>
+    /// Classe que recebe 4 jogadores de volei e os balanceia em dois times da melhor forma possível. (Factory Method)   
+    /// </summary>
+    /// <remarks>
+    /// Criado por   : Luis Gustavo Bilches
+    /// Data         : 05/05/2020
     class Program
     {
         static void Main(string[] args)
