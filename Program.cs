@@ -53,7 +53,7 @@ namespace VolleyGame
 
         }
 
-        //Metodo para ordenar o nível dos jogadores de fomra crescente.
+        //Metodo para ordenar o nível dos jogadores de forma crescente.
         public static void OrdenaVetor(int[] jogadores)
         {       
             Array.Sort(jogadores);
