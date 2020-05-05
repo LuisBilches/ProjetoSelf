@@ -1,7 +1,0 @@
-C:\Users\Luis Gustavo\source\repos\VolleyGame\VolleyGame\bin\Debug\VolleyGame.exe.config
-C:\Users\Luis Gustavo\source\repos\VolleyGame\VolleyGame\bin\Debug\VolleyGame.exe
-C:\Users\Luis Gustavo\source\repos\VolleyGame\VolleyGame\bin\Debug\VolleyGame.pdb
-C:\Users\Luis Gustavo\source\repos\VolleyGame\VolleyGame\obj\Debug\VolleyGame.csprojAssemblyReference.cache
-C:\Users\Luis Gustavo\source\repos\VolleyGame\VolleyGame\obj\Debug\VolleyGame.csproj.CoreCompileInputs.cache
-C:\Users\Luis Gustavo\source\repos\VolleyGame\VolleyGame\obj\Debug\VolleyGame.exe
-C:\Users\Luis Gustavo\source\repos\VolleyGame\VolleyGame\obj\Debug\VolleyGame.pdb
