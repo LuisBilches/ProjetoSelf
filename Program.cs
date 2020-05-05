@@ -12,7 +12,7 @@ namespace VolleyGame
     /// <remarks>
     /// Criado por   : Luis Gustavo Bilches
     /// Data         : 05/05/2020
-    class Program
+    class VolleyGame
     {
         static void Main(string[] args)
         {
